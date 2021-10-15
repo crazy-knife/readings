@@ -1,2 +1,2 @@
 # readings
-daily reading
+daily reading.
